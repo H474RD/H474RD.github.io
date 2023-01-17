@@ -1,11 +1,40 @@
 # Digital Forensics and Incident Response
 
+---
+
+WORK IN PROGRESS
+
+---
+
 ## Digital Forensics
+
+### Concepts
+
+The Forensic Lifecycle:
+
+1. Identification
+2. Acquisition
+3. Analysis
+4. Reporting
+
+vs.
+
+- Identification
+- Preservation
+- Collection
+- Examination
+- Analysis
+- Presentation
+
+Principles in Digital Forensics
+
+- Need-to-know Principle
+- Least-privilege principle
+- Four-Eyes principle
+- Chain of custody
 
 Further Reading:  
 - [Introduction to DFIR by Scott J Roberts](https://sroberts.medium.com/introduction-to-dfir-d35d5de4c180)
-
-### Concepts
 
 ## Incident Response
 
@@ -13,7 +42,6 @@ Further Reading:
 - [Incident Response is Dead… Long Live Incident Response by Scott J Roberts](https://sroberts.medium.com/incident-response-is-dead-long-live-incident-response-5ba1de664b95)
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [MITRE D3FEND MATRIX](https://d3fend.mitre.org/)
-
 
 ### Concepts
 
@@ -43,7 +71,6 @@ NiceToKnow Tools:
 - [SANS SOF-ELK](https://www.sans.org/tools/sof-elk/)
 
 ### Incident Response
--
 
 NiceToKnow Tools:
 - [TheHive](https://github.com/TheHive-Project/TheHive)
